@@ -11,7 +11,7 @@
 
 ## Overview
 
-AI Commerce Agent는 [하늘소프트(Hadeulsoft)](https://hadeul.com)에서 개발한 특수 도메인(이화학·시약) B2B 커머스에 특화된 RAG 기반 상담 에이전트입니다. CAS 번호, IUPAC 화학명, 카탈로그 번호 등 도메인 특화 데이터를 이해하고, 일반 LLM이 답변하기 어려운 정밀한 기술 상담을 수행합니다.
+AI Commerce Agent는 [하들소프트(Hadeulsoft)](https://hadeul.com)에서 개발한 특수 도메인(이화학·시약) B2B 커머스에 특화된 RAG 기반 상담 에이전트입니다. CAS 번호, IUPAC 화학명, 카탈로그 번호 등 도메인 특화 데이터를 이해하고, 일반 LLM이 답변하기 어려운 정밀한 기술 상담을 수행합니다.
 
 ### Key Features
 
@@ -32,7 +32,7 @@ AI Commerce Agent는 [하늘소프트(Hadeulsoft)](https://hadeul.com)에서 개
 | **Frontend** | Next.js, React, Tailwind CSS, TypeScript |
 | **Backend** | Next.js API Routes, Prisma ORM |
 | **Database** | PostgreSQL (pgvector, pg_trgm), MySQL |
-| **LLM** | Multi-provider (Gemini, OpenAI, Upstage, Ollama) |
+| **LLM** | Multi-provider |
 | **Embedding** | sentence-transformers MiniLM (384dim, CUDA) |
 | **OCR** | PaddleOCR (GPU), Tesseract.js |
 | **ML Runtime** | PyTorch (CUDA), sentence-transformers |
@@ -91,9 +91,9 @@ MySQL → PostgreSQL 증분 동기화로 상품 데이터 실시간 연동
 
 ## About
 
-이 프로젝트는 [하늘소프트(Hadeulsoft)](https://hadeul.com)에서 개발·운영하고 있습니다.
+이 프로젝트는 [하들소프트(Hadeulsoft)](https://hadeul.com)에서 개발·운영하고 있습니다.
 
-하늘소프트는 AI, 게임, 소프트웨어 개발 전문 기업으로, 도메인 특화 AI 솔루션과 엔터프라이즈 시스템을 구축합니다.
+하들소프트는 AI, 게임, 소프트웨어 개발 전문 기업으로, 도메인 특화 AI 솔루션과 엔터프라이즈 시스템을 구축합니다.
 
 - **홈페이지**: [hadeul.com](https://hadeul.com)
 - **서비스**: AI 솔루션 · 게임 개발 · 소프트웨어 개발 · IT 컨설팅
@@ -106,7 +106,7 @@ This project is proprietary software. All rights reserved.
 ---
 
 <p align="center">
-  <b>Developed by <a href="https://hadeul.com">하늘소프트 (Hadeulsoft)</a></b><br>
+  <b>Developed by <a href="https://hadeul.com">하들소프트 (Hadeulsoft)</a></b><br>
   AI · Game · Software Development<br><br>
   <a href="https://hadeul.com">🌐 hadeul.com</a>
 </p>
