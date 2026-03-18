@@ -99,6 +99,14 @@ MySQL → PostgreSQL 증분 동기화로 상품 데이터 실시간 연동
 - **서비스**: AI 솔루션 · 게임 개발 · 소프트웨어 개발 · IT 컨설팅
 - **문의**: [hadeul.com/inquiry](https://hadeul.com/inquiry)
 
+### Developer
+
+| | |
+|---|---|
+| **소속** | 하들소프트 개발팀 |
+| **담당** | 양동건 책임연구원 |
+| **이메일** | ydg@hadeul.com |
+
 ## License
 
 This project is proprietary software. All rights reserved.
